@@ -2,7 +2,8 @@
 - 👀 I’m interested in FullStack Development and more recently in Crypto!... and of course pizza
 - 🌱 I’m currently learning Solidity, more Javascript and Project Management.
 - 💞️ I’m looking to collaborate on crpyto projects (I'm a junior in this)
-- 📫 How to reach me [arcela34@gmail.com](https://www.linkedin.com/in/andres-arcela/)
+- 📫 How to reach me: [in my Linkedin](https://www.linkedin.com/in/andres-arcela/)
+- 📲 Or my mail arcela34@gmail.com
 
  ⚫️⚪️
 <!---
