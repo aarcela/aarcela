@@ -1,5 +1,5 @@
 🍕 Hi, I’m Andrés! and in the coding world: @arcela43
-- 👀 I’m interested in FullStack Development and more recently in Crypto!... and of course pizza
+- 👀 I’m interested in FullStack Development and more recently in Gaming!... and of course pizza
 - 🌱 I’m currently learning Solidity, more Javascript and Project Management.
 - 💞️ I’m looking to collaborate on crpyto projects (I'm a junior in this)
 - 📫 How to reach me: [in my Linkedin](https://www.linkedin.com/in/andres-arcela/)
