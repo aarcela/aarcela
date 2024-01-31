@@ -1,4 +1,4 @@
-![angular](https://github.com/aarcela/aarcela/assets/14796151/e3f62e02-d3e6-45a1-af5e-4499cedaa7ab)🍕 Hi, I’m Andrés! and in the coding world: @aarcela
+🍕 Hi, I’m Andrés! and in the coding world: @aarcela
 - 👀 I’m interested in FullStack Development and more recently in Gaming!... and of course pizza
 - 🌱 I’m currently learning Qwik and Unity, more Javascript, and Project Management.
 - 💞️ I’m looking to collaborate on gaming projects (I'm a junior in this) and some cool FE apps
